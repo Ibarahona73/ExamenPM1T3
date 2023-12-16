@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "735840086497",
+    "firebase_url": "https://examen-7166d-default-rtdb.firebaseio.com",
+    "project_id": "examen-7166d",
+    "storage_bucket": "examen-7166d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735840086497:android:2955ebee77367a32770aa0",
+        "android_client_info": {
+          "package_name": "com.example.examenpm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAX_kL14SDSsRIDM77DQIBPP7JLIvDBxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
